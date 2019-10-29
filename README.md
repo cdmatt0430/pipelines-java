@@ -1,3 +1,4 @@
+[![Build Status](https://ineight-posandbox.visualstudio.com/Inherited%20Mock%20of%20InterStellar/_apis/build/status/cdmatt0430.sample-java?branchName=master)](https://ineight-posandbox.visualstudio.com/Inherited%20Mock%20of%20InterStellar/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
